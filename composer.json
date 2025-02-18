@@ -1,5 +1,5 @@
 {
-    "name": "m2mtech/flysystem-stream-wrapper",
+    "name": "txigreman/flysystem-stream-wrapper",
     "type": "library",
     "description": "A stream wrapper for Flysystem V2 & V3.",
     "keywords": [
